@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I’m Majid Yusuf 👋
 
-<!--
-**MajidYusuf/MajidYusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Associate Consultant at Version 1
 
-Here are some ideas to get you started:
+### About me
+- Computer Science graduate (First Class Honours)
+- Currently part of Version 1’s Early Careers Programme
+- Interested in software development, cloud, and consulting
+- Enjoy learning and building practical solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+- Python | Java | SQL
+- Git | Agile fundamentals
+
+### Connect
+- LinkedIn: https://www.linkedin.com/in/your-profile
