@@ -13,4 +13,4 @@ Associate Consultant at Version 1
 - Git | Agile fundamentals
 
 ### Connect
-- LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/majid-y-844860328/)
+- LinkedIn: https://www.linkedin.com/in/majid-y-844860328/
